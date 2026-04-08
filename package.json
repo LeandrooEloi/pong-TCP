@@ -1,0 +1,13 @@
+{
+  "name": "pong-v2-tcp",
+  "version": "1.0.0",
+  "description": "Pong multiplayer TCP com WebSocket",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "ws": "^8.18.0"
+  }
+}
