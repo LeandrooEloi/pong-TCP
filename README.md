@@ -70,6 +70,4 @@ Se quiser testar em outro computador ou celular, use o IP local da máquina que 
 - `public/index.html`
 - `public/game.js`
 
-## Próximos passos
 
-Implementar a versão UDP e realizar a comparação entre TCP e UDP com base em latência percebida, suavidade da movimentação, responsividade e experiência do usuário, conforme os requisitos da atividade. [file:1]
